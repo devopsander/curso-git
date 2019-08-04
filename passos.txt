@@ -1,0 +1,14 @@
+#Esses são os passos para criar e enviar os arquivos via git to github
+
+criar uma conta no github
+criar um arquivo para enviar via git to github
+
+git add [arquivo a ser enviado]
+
+git status para validar o status do arquivo
+
+git add remote para adicionar a pagina do git que sera enviada
+
+git commit [arquivo]
+
+git remote add 
